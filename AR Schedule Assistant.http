@@ -1,0 +1,6 @@
+@AR_Schedule_Assistant_HostAddress = http://localhost:5141
+
+GET {{AR_Schedule_Assistant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
